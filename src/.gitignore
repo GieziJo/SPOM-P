@@ -1,0 +1,5 @@
+/testPkg/
+
+*.Rda
+
+out*.txt

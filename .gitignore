@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook
+*.ipynb
+
+# C extensions
+*.so
+
+# matlab
+*.mat
+
+# images
+*.png
+
+
+# folders
+# /data
+/figures
+.idea/
+/src/temp
+.vscode
+
+# R
+.Rhistory
